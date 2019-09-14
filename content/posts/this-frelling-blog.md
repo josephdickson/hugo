@@ -2,7 +2,7 @@
 title: "This Frelling Blog"
 date: 2019-09-14T15:52:04-07:00
 ---
-I'm amused this domain name was available. This morning I searched for a project domain to test out the [Hugo](https://themes.gohugo.io/ "Hugo web framework") static-site generator framework and came across the relatively cheap .space domain at [namecheap](https://www.namecheap.com "namecheap domain registrar"). Naturally all the generic terms were taken. Battlestar Galatica's frak wasn't available, but frell was. As a frelling fan of Farscape I couldn't pass it up up.
+I'm amused this domain name was available. This morning I searched for a project domain to test out the [Hugo](https://themes.gohugo.io/ "Hugo web framework") static-site generator framework and came across the relatively cheap .space domain at [namecheap](https://www.namecheap.com "namecheap domain registrar"). Naturally all the generic terms were taken. Battlestar Galatica's frak wasn't available, but frell was. As a frelling fan of Farscape I couldn't pass it up.
 
 ## What the Frell
 
