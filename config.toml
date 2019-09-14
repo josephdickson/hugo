@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://epic-mayer-0e6e10.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "gohugo-theme-ananke"
