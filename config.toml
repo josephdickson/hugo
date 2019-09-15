@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Frell Space"
 theme = "gohugo-theme-ananke"
 SectionPagesMenu = "main"
+favicon = 'favicon.ico'
