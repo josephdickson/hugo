@@ -6,7 +6,7 @@ I'm amused this domain name was available. This morning I searched for a project
 
 ## What the Frell
 
-Frell is an Sebacean word created as a substitute fuck, shit and similar banned words on for US television.
+Frell is a Sebacean word that substitutes for curse words such as fuck and shit.
 
 ### Popular usage includes
 
